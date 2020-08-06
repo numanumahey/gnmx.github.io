@@ -1,0 +1,23 @@
+.intro{
+  text-align: center;
+  background-color: #2471A3;
+  width:100%;
+}
+
+.experience{
+  text-align: center;
+}
+
+.certifications{
+  text-align: center;
+}
+
+.footer{
+  background-color: #2471A3;
+}
+
+img{
+  border-radius: 50%;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
