@@ -1,8 +1,14 @@
+div{
+
+}
+
 .intro{
   font-family: sans-serif;
   text-align: center;
   background-color: #2471A3;
   width:100%;
+  top:0;
+  position:sticky;
 }
 
 .experience{
